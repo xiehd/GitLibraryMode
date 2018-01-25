@@ -1,4 +1,4 @@
-package com.example.administrator.xhdapplication;
+package com.test.git.main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
