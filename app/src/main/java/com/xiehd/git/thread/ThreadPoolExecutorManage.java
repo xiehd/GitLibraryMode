@@ -20,7 +20,6 @@ public class ThreadPoolExecutorManage {
     private static ExecutorService cachedThreadPool;
     private static ScheduledExecutorService scheduledThreadPool;
 
-    //此线程和池定时线程池差别不大
     // private static ScheduledExecutorService singleThreadScheduledPool = Executors.newSingleThreadScheduledExecutor();
 
     /**
